@@ -1,6 +1,6 @@
 SECTION="NetPing modules"
 CATEGORY="Base"
-TITLE="EPIC OWRT-PLIB-click"
+TITLE="OWRT-PLIB-click"
 
 PKG_NAME="OWRT-PLIB-click"
 PKG_VERSION=8.0.3-1
